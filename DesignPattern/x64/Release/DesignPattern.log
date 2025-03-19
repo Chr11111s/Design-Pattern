@@ -1,0 +1,9 @@
+﻿  TextEditor.cpp
+  application.cpp
+  example_manager.cpp
+  正在生成代码
+  2 of 7510 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    56 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DesignPattern.vcxproj -> C:\Users\surface\Desktop\设计模式\DesignPattern\x64\Release\DesignPattern.exe
